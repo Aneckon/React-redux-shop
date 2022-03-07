@@ -1,0 +1,12 @@
+button {
+  font-weight: 700;
+  border: 1px solid #262626;
+  border-radius: 32px;
+  background-color: #262626;
+  color: white;
+  padding-top: 16px;
+  padding-bottom: 15px;
+  padding-left: 25px;
+  padding-right: 25px;
+  font-size: 18px;
+}

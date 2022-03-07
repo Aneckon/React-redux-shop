@@ -1,0 +1,21 @@
+.header {
+  padding-top: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-bottom: 50px;
+}
+.header__menu{
+  display: flex;
+  align-items: center;
+}
+.header__menu a{
+  padding-right: 15px;
+}
+.header__menu p{
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 14px;
+  color: #FFFFFF;
+}

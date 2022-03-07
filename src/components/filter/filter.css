@@ -1,0 +1,15 @@
+.filter {
+  margin-bottom: 80px;
+}
+.filter button {
+  color: #000;
+  margin-right: 20px;
+  font-size: 18px;
+  background-color: white;
+  border-radius: 32px;
+  padding: 14px;
+  padding-left: 32px;
+  padding-right: 32px;
+  font-weight: 700;
+  border: none;
+}
