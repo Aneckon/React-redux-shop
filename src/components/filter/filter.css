@@ -13,3 +13,7 @@
   font-weight: 700;
   border: none;
 }
+.filter .Active{
+  color: #fff;
+  background: #000;
+}
